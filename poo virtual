@@ -1,0 +1,14 @@
+git help: Genera lista de comandos
+git config --global user.name "username": Es para registrar un nuevo usuario a git
+git config --global user.email "myemail@example.com": Es para registrar un nuevo correo a git
+git init: Crear repositorio
+git status: Ver estado de los archivos
+git status -s: Ver archivos no registrados
+git status -sb: Ver información de la rama maestra
+git remote add origin URL
+git push -u origin maste: Estos dos comandos sirven para crear un repositorio
+git remote -v: Nos muestra en que repositorio estamos
+git add: Agregar todos los archivos con cambios
+git commit -m "commentario": Crear commmit
+git log --oneline: Muestra la lista de commit del más antiguo al más nuevo
+git push: Permite cargar los cambios locales en el repositorio remoto
